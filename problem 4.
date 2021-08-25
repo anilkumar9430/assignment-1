@@ -1,0 +1,13 @@
+# Problem 4 
+
+# define strings                                                         
+firstName = "OOP"
+lastName = "Course"
+words = ["How","are","you","learning ", "OOP " , "Course","?"]
+
+sentence = ' '.join(words)
+print(sentence)
+
+Ans.
+
+How are you learning  OOP  Course ?
