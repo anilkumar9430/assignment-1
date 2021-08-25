@@ -1,0 +1,15 @@
+import random
+
+# Create a random floating point number and print it.
+print(random.random())
+
+# pick a random whole number between 0 and 10.
+print(random.randrange(0,15))
+
+# pick a random floating point number between 0 and 10.
+print(random.uniform(0,10))
+
+Ans.
+0.7645158641312413
+12
+9.286788016861557
