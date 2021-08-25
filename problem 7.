@@ -1,0 +1,21 @@
+# problem 7
+
+#!/usr/bin/env python3
+
+name = input('What is your name? ')
+print('Welcome to OOP Course ' + name)
+
+qualification = input('What is your Qualification? ')
+print(name + "'s" + ' 90Educational Qualification  is ' + qualification)
+
+phoneNum = input('Give me pohone number? ')
+print('Phone number is : ' + str(phoneNum))
+
+Ans.
+
+What is your name? Anil
+Welcome to OOP Course Anil
+What is your Qualification? Btech
+Anil's 90Educational Qualification  is Btech
+Give me pohone number? 8938393749
+Phone number is : 8938393749
