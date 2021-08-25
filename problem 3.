@@ -1,0 +1,13 @@
+# Problem 3 - Use string functions
+s = "OOP Course is offered in IIIT DWD"
+s = s.replace("OOP","CS")
+index = s.find("IIIT DWD")
+if "IIIT DWD" in s:
+    print("Institute found")
+print(s,"\n", index)
+
+Ans. 
+
+Institute found
+CS Course is offered in IIIT DWD 
+ 24
