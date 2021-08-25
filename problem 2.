@@ -1,0 +1,23 @@
+# Problem 2     Python strings 
+x = "Welcome to OOP Course"
+print(x)
+print(x[0])       # indexing starts from 0
+print(x[1])
+s = x[0:3]        # substring 
+print(s)
+t = x[8:10]     # indexing 
+print(t)
+s = "My lucky number is %d, what is yours?" % 7          # Combine numbers and text
+print(s)
+s = "My lucky number is " + str(7) + ", what is yours?"   # alternative method of combining numbers and text
+print(s)
+
+Ans.
+
+Welcome to OOP Course
+W
+e
+Wel
+to
+My lucky number is 7, what is yours?
+My lucky number is 7, what is yours?
