@@ -1,0 +1,31 @@
+# Problem 9   
+#!/usr/bin/env python3
+# The first loop will repeat the print function for every item of the list.
+# The second loop will do a calculation on every element of the list num and print the result.
+
+city = ['Tokyo','New York','Toronto','Hong Kong']
+print('Cities loop:')
+for x in city:
+    print('City: ' + x)
+
+# problem 10
+
+x = 3                              
+while x < 10:
+    print(x)
+    x = x + 1
+    
+    Ans.
+    
+    Cities loop:
+City: Tokyo
+City: New York
+City: Toronto
+City: Hong Kong
+3
+4
+5
+6
+7
+8
+9
